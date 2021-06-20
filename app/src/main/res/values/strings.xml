@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GBNote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_add_note_title">Создать заметку</string>
+    <string name="note_create_title">Создание новой заявки</string>
+    <string name="note_edit_title">Редактирование заявки</string>
 </resources>
